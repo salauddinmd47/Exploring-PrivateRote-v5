@@ -1,0 +1,11 @@
+.navigation{
+    margin-right: 15px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.navigation:hover{
+    color: brown;
+    background-color: cadetblue;
+    padding: 2px 5px;
+}
